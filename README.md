@@ -1,7 +1,6 @@
 🙋‍♂️ Hello fellow reader!
 
 I’m @paulocabreira, a Brazilian System's Analyst and Developer, with bachelor's degree in Systems Analysis and graduate student in Digital Products Design (UI / UX).
-Currently working at @TOTVS at the ERP's healthcare field but with some previous experience in trade-in processes.
 
 #### 💻 Dev skills
 
