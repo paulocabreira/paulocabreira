@@ -9,7 +9,7 @@ I’m @paulocabreira, a Brazilian System's Analyst and Developer, with bachelor'
 - Outsystems
 - PHP (ScriptCase framework v7)
 - SQL
-- Angular (currently learning/loving 🌱)
+- JavaScript (currently learning 🌱)
 
 #### 🦾 Other relatable skills
 
